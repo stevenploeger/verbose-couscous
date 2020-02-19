@@ -1,0 +1,45 @@
+
+    body {
+    background:rgb(111, 176, 236);
+    color:rgb(0, 0, 0);
+
+    }
+    article { 
+        background-color: rgb(235, 152, 152);
+    }
+
+    p {display: inline;
+    background-color: greenyellow;
+}
+    h1 {display: block;
+    background-color: grey;
+}
+
+    section {
+    background: black;
+    margin: 50px, auto;
+    width: 200px;
+    text-align: justify;
+}
+
+    .box {
+    border: 1px solid red;
+    }
+
+    .blue-background {
+    background-color: rgb(247, 99, 0);
+    }
+
+    main {
+        width: 600px;
+        display: flex;
+    }
+
+    img {
+        padding:5%;
+        width: 40%;
+
+    }
+    .bilder {
+        font-size: 0;
+    }

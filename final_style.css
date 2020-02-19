@@ -1,0 +1,32 @@
+body{
+background-color: rgb(230,230,230);
+color: rgb(10,10,10);
+font-family: Arial, Helvetica, sans-serif
+
+
+
+
+}
+.headline {display: block;
+    color: rgb(0, 0, 0);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.box {
+    border: 3px solid rgb(0, 135, 177);
+    }
+    .box2 {
+        border: 3px solid rgb(11, 105, 97);
+        }
+.centered {margin: 50px auto;} 
+header {width: 100%;
+text-align: center;
+}
+
+.newsticker {display: block;
+    color: rgb(255, 0, 0);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.centerimage {
+margin: 0 auto;
+}
